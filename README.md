@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Fizoratti/ng_recipe-book)
+
 # ShoppingList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
